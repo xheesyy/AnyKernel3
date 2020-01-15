@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Genom Kernel MIUI by rama982 @ telegram
+kernel.string=Genom-Magic Kernel by mylove90 @ Xda-developers
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
