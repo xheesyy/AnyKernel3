@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Genom-Magic Kernel by mylove90 @ Xda-developers
+kernel.string=------------ P E R F ------------
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
@@ -27,6 +27,9 @@ ramdisk_compression=auto;
 ## AnyKernel methods (DO NOT CHANGE)
 # import patching functions/variables - see for reference
 . tools/ak3-core.sh;
+
+
+ui_print "By: @skybird350"
 
 
 ## AnyKernel file attributes

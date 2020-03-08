@@ -1,10 +1,10 @@
-NAME ?= Genom-Magic
+NAME ?= Perf
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := ten-onclite
+CODE := onclite
 
-ZIP := $(NAME)-$(CODE)-$(DATE).zip
+ZIP := $(NAME)_$(CODE)_$(DATE).zip
 
 EXCLUDE := Makefile *.git* *.jar* *placeholder* *.md*
 
