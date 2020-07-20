@@ -2,7 +2,7 @@ NAME ?= Perf
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := onclite
+CODE := olive
 
 ZIP := $(NAME)_$(CODE)_$(DATE).zip
 
