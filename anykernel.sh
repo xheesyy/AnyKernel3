@@ -9,8 +9,8 @@ do.devicecheck=1
 do.modules=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=onc
-device.name2=onclite
+device.name1=gram
+device.name2=
 device.name3=
 device.name4=
 device.name5=
@@ -27,9 +27,6 @@ ramdisk_compression=auto;
 ## AnyKernel methods (DO NOT CHANGE)
 # import patching functions/variables - see for reference
 . tools/ak3-core.sh;
-
-
-ui_print "By: @skybird350"
 
 
 ## AnyKernel file attributes
