@@ -1,0 +1,4 @@
+name=
+cmdline=androidboot.dtbo_idx=0 --cmdline root=/dev/mmcblk0p18 buildvariant=userdebug
+os_version=9.0.0
+os_patch_level=2018-08
