@@ -14,8 +14,8 @@ device.name2=onclite
 device.name3=
 device.name4=
 device.name5=
-supported.versions=
-supported.patchlevels=
+supported.versions=9.0.0
+supported.patchlevels=2018-08
 '; } # end properties
 
 # shell variables
